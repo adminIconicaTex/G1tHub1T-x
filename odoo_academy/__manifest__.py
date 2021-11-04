@@ -1,7 +1,7 @@
 # _*_ coding: utf-8  _*_
 {
     'name': 'Odoo Academy',
-    'sumary': 'Academy app to  manage training',
+    'sumary': 'Academy app to manage training',
     'description': """
        Academy app to manage training
        - Courses
@@ -12,12 +12,12 @@
     'website': 'http://www.st4business.com',
     'category': 'Training',
     'version': '0.1',
-    'depends':['base'],
+    'depends': ['base'],
     'data': [
         
     ],
     'demo': [
         
     ],
-    "license":'LGPL-3'
+    'license': 'LGPL-3'
 }
