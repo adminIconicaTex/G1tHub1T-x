@@ -12,8 +12,8 @@
                 Accounting 200:
                 Intermediate Accounting Course
                 Learning about Cost Accounting and pricing and Revenue Analysis 
-            </field>
             <field name="level">Intermediate</field>
+            </field>
         </record>
         <record module="academy.course" id="website_500">
             <field name="name">Website 500</field>
