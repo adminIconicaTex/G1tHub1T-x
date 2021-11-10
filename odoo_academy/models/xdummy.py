@@ -4,9 +4,9 @@ class Xdummy(models.Model):
     _name = "academy.idummy"
     _description = 'Dummy Info'
     
-    name = fields.Char(string='Titulo', required=True)
-    description = fields.Text(string='Descripcion')
-    level = fields.Selection(string='Nivel', 
+    nombre = fields.Char(string='Titulo', required=True)
+    descripcion = fields.Text(string='Descripcion')
+    nivel = fields.Selection(string='Nivel', 
                              selection=[('principiante', 'Principiante'),
                                        ('intermedio', 'Intermedio'),
                                        ('avanzado','Avanzado')],
