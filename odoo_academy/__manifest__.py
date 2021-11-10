@@ -14,7 +14,8 @@
     'version': '0.1',
     'depends': ['base'],
     'data': [
-        
+        'security/academy_security.xml',
+        'secueity/ir.model.access.csv'
     ],
     'demo': [
         #'demo/academy.demo.xml'
