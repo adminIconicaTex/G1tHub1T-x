@@ -19,7 +19,7 @@
         'views/academy_menuitems.xml'
     ],
     'demo': [
-        #'demo/academy.demo.xml'
+        'demo/academy.demo.xml'
     ],
     'license': 'LGPL-3'
 }
